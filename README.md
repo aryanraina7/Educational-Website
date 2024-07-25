@@ -7,8 +7,6 @@ Welcome to the repository for our Cybersecurity Educational Platform! This platf
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Our platform offers a comprehensive educational experience for anyone interested in cybersecurity. With a range of video content covering different aspects of the field, learners can delve into topics like Ethical Hacking, Network Defense, and Digital Forensics through curated playlists.
