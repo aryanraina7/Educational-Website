@@ -21,7 +21,7 @@ const Footer = () => {
          |  Made by 
         <a href="https://www.linkedin.com/in/pratyushchowdhury/" target="_blank" rel="noopener noreferrer" style={linkStyle}>Pratyush,</a>
         <a href="https://www.linkedin.com/in/cyber-mukherjee/" target="_blank" rel="noopener noreferrer" style={linkStyle}>Gaurav &</a>
-        <a href="https://www.nimh.nih.gov/health/find-help" target="_blank" rel="noopener noreferrer" style={linkStyle}>Aryan.</a>
+        <a href="https://www.linkedin.com/in/aryan-raina-5b545231b/" target="_blank" rel="noopener noreferrer" style={linkStyle}>Aryan.</a>
       </p>
     </footer>
   );
